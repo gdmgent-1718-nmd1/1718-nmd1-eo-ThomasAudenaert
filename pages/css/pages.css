@@ -15,4 +15,7 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
+.project{
+    color: hsla(243, 62%, 55%, 1);
+}
 /* Voeg jouw css hieraan toe */
