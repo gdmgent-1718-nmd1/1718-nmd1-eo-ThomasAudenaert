@@ -18,3 +18,108 @@ img {
 .project{
     color: hsla(243, 62%, 55%, 1);
 }
+
+.flexbox{
+    display:flex;
+    justify-content: space-around;
+}
+
+.titel{
+    color: hsla(243, 62%, 55%, 1);
+    font-family: 'Hind', sans-serif;
+    font-weight: 500;
+    font-size: 48pt;
+}
+
+.ondertitel{
+    color: #76BEF4;
+    font-family: 'Hind', sans-serif;
+    font-weight: 400;
+    font-size: 36pt;
+}
+
+.tekst{
+    color: #4165EA;
+    font-family: 'Hind', sans-serif;
+    font-weight: 300;
+    font-size: 20pt;
+}
+
+.action{
+    color:#4165EA;
+    font-family: 'Hind', sans-serif;
+    font-weight: 700;
+    font-size: 20pt;
+}
+
+.palet{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#donkerblauw{
+    background-color: #4C45D3;
+    padding: 10px;
+}
+
+#lichtdonkerblauw{
+    background-color: #4165EA;
+    padding: 10px;
+}
+
+#lichterblauw{
+    background-color: #76BEF4;
+    padding: 10px;
+}
+
+#lichtpaars{
+    background-color: #9E3EE0;
+    padding: 10px;
+}
+
+#paars{
+    background-color: #7741EA;
+    padding: 10px;
+}
+
+.palet-tekst{
+    color: white;
+}
+
+.knoppen{
+    display: flex;
+}
+
+.knop-1{
+    color: #76BEF4;
+    background-color: #4C45D3;
+    border: 3px solid #76BEF4;
+    padding: 2px 5px 2px 5px;
+    font-family: 'Hind', sans-serif;
+    font-weight: 300;
+    font-size: 20pt;
+    margin: 5px;
+}
+
+.knop-2{
+    color: #4C45D3;
+    background-color: #76BEF4;
+    border: 3px solid #4C45D3;
+    padding: 2px 2px 2px 2px;
+    font-family: 'Hind', sans-serif;
+    font-weight: 300;
+    font-size: 20pt;
+    margin: 5px;
+}
+
+.knop-3{
+    color: #76BEF4;
+    background-color: #9E3EE0;
+    border: 3px solid #7741EA;
+    padding: 2px 30px 2px 30px;
+    font-family: 'Hind', sans-serif;
+    font-weight: 300;
+    font-size: 20pt;
+    margin: 5px;
+}
