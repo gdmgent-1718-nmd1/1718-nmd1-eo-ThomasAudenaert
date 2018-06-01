@@ -199,3 +199,15 @@ img {
     color: #7741EA;
     margin-bottom: -20px;
 }
+
+.img-concurrentieanalyse{
+    width: 500px;
+    height: auto;
+    float: right;
+}
+
+.img-concurrentieanalyse2{
+    float: left;
+    width: 500px;
+    height: auto;
+}
